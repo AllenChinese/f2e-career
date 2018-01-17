@@ -47,7 +47,7 @@
 
 技术栈：
 
-vue.js、vue-cli、vue-router、vuex、vue-i18n、mint-ui
+vue.js、vue-cli、vue-router、vuex、vue-i18n、Mint-ui
 
 开发工具：
 
